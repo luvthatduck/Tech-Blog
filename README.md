@@ -10,6 +10,7 @@
 
 ## Description 
 CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
+Deployed website found [HERE](https://fathomless-cove-73714.herokuapp.com/) by Heroku.
 
 ## Installation 
 
