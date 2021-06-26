@@ -13,6 +13,6 @@ if (process.env.JAWSDB_URL) {
     port: 3306
   });
 }
-// console.log("sequelize", sequelize)
+
 
 module.exports = sequelize;
